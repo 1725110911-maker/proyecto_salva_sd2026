@@ -1,0 +1,6 @@
+cheroot==11.1.2
+gunicorn==26.2.0
+jaraco.functools==4.6.0
+more-itertools==11.1.0
+multipart==2.0.1
+web-py==0.76
